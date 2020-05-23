@@ -3,8 +3,6 @@ import 'package:dersikii/main.dart';
 import 'package:dersikii/ucuslar.dart';
 import 'package:flutter/material.dart';
 
-const full_url='https://images.unsplash.com/photo-1547665979-bb809517610d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80';
-const yks_url='https://i2.milimaj.com/i/milliyet/75/0x0/5ebcf74f55427e0e2c0a6ddc.jpg';
 void main() {
   runApp(MaterialApp(
     title: 'Navigation Basics',
